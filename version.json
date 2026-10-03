@@ -1,0 +1,8 @@
+{
+  "version": "3.7.7",
+  "installerUrl": "https://github.com/Grrrstyle/calendar-hub-updates/releases/download/v3.7.7/CalendarHubSetup-v3.7.7.exe",
+  "sha256": "550bc1c1df46377fe28202af24be693c5e52ce02b172357ab1a9b33dcd869507",
+  "notes": "Calendar Hub 3.7.7",
+  "mandatory": false,
+  "publishedUtc": "2026-10-03T21:53:13Z"
+}
