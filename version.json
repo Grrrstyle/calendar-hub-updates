@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "3.8.1",
-    "installerUrl":  "https://github.com/Grrrstyle/calendar-hub-updates/releases/download/v3.8.1/CalendarHubSetup-v3.8.1.exe",
-    "sha256":  "c16f1feb4dcbfa48fbb0cf4f0382a7000a2badfdd18604505e692926c57a57bd",
-    "notes":  "Calendar Hub 3.8.1",
+    "version":  "3.9.0",
+    "installerUrl":  "https://github.com/Grrrstyle/calendar-hub-updates/releases/download/v3.9.0/CalendarHubSetup-v3.9.0.exe",
+    "sha256":  "6b0f07f91aca4f2556ebd2dc1726b2b8f1939ae412c8961c448551c8859a3e94",
+    "notes":  "Calendar Hub 3.9.0",
     "mandatory":  false,
-    "publishedUtc":  "2026-10-18T19:39:56.2877840Z"
+    "publishedUtc":  "2026-11-09T17:57:17.9318150Z"
 }
